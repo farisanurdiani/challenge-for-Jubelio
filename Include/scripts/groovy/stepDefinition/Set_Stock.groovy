@@ -81,7 +81,6 @@ class Set_Stock {
 
 	@And("User click Simpan button")
 	public void user_click_Simpan_button() {
-		WebUI.maximizeWindow()
 		WebUI.scrollToElement(findTestObject('Page_Penyesuaian_Persediaan/button_simpan'), 0)
 		WebUI.click(findTestObject('Page_Penyesuaian_Persediaan/button_simpan'))
 	}
@@ -89,6 +88,5 @@ class Set_Stock {
 	@Then("User successfully edit stock")
 	public void user_successfully_edit_stock() {
 		WebUI.verifyElementPresent(findTestObject('Home_Page_Persediaan/text_persediaan'), 0)
-		WebUI.closeBrowser()
 	}
 }
