@@ -24,13 +24,13 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-	features = "Include/features",
-	glue = "stepDefinition",
-	tags = "@Login, @Set_Stock, @Logout",
-	monochrome = true,
-	plugin = "html:reports/Cucumber"
-	
-	)
+features = "Include/features",
+glue = "stepDefinition",
+tags = "@Login, @Set_Stock, @Logout",
+monochrome = true,
+plugin = "html:reports/Cucumber"
+
+)
 
 public class Runner {
 }

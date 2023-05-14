@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,2023-05-14 10:59:29,2023-05-14 10:59:29,0.567s,ERROR
+,,,,,,,
+Test Cases/Cucumber/Runner,,,,2023-05-14 10:59:29,2023-05-14 10:59:29,0.316s,ERROR
+"runWithCucumberRunner(""Runner.class"")",,,,2023-05-14 10:59:29,2023-05-14 10:59:29,0.030s,ERROR

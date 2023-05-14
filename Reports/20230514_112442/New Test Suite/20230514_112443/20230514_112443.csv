@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 113.0.0.0,,,2023-05-14 11:24:45,2023-05-14 11:26:44,1m - 58.716s,PASSED
+,,,,,,,
+Test Cases/Cucumber/Runner,Chrome 113.0.0.0,,,2023-05-14 11:24:45,2023-05-14 11:26:44,1m - 58.482s,PASSED
+runWithCucumberRunner(Runner),Chrome 113.0.0.0,,,2023-05-14 11:24:46,2023-05-14 11:26:44,1m - 58.156s,PASSED

@@ -52,7 +52,7 @@ class Logout {
 
 	@And("User click Keluar")
 	public void user_click_Keluar() {
-		WebUI.click(findTestObject('Home_page/button_keluar'))
+		WebUI.click(findTestObject('Home_page/button_logout'))
 	}
 
 	@Then("User successfully logout")
