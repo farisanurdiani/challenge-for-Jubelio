@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_quantity</name>
+   <tag></tag>
+   <elementGuidId>1a1a66a8-f1dd-4659-a861-1668589e9645</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[title=&quot;1&quot;] > div.text-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e1aa08e-2645-44e4-bde2-407cfbf0a677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-right</value>
+      <webElementGuid>eb81d9b6-30ce-4820-a989-59936ee2f02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ff279df3-cc50-49c4-83c1-7a33084278d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[1]/div[1]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;page-editor&quot;]/div[1]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;row m-t-md&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[2]/div[1]/div[@class=&quot;react-grid-Container&quot;]/div[@class=&quot;react-grid-Main&quot;]/div[@class=&quot;react-grid-Grid&quot;]/div[2]/div[@class=&quot;react-grid-Viewport&quot;]/div[@class=&quot;react-grid-Canvas&quot;]/div[2]/div[1]/div[@class=&quot;react-grid-Row react-grid-Row--even&quot;]/div[@class=&quot;react-grid-Cell&quot;]/div[@class=&quot;react-grid-Cell__value&quot;]/div[1]/span[1]/div[1]/div[@class=&quot;text-right&quot;]</value>
+      <webElementGuid>58366ac3-ce30-479f-b9aa-aac52c85191e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/span/div/div</value>
+      <webElementGuid>3bb0f416-1b06-4310-90fb-9a03eab7f3da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[2]/following::div[21]</value>
+      <webElementGuid>9c6673de-3db5-40a0-aea9-3fff50dee48f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah'])[1]/following::div[30]</value>
+      <webElementGuid>4c789725-637c-44c2-b586-24c6af14d6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buah'])[1]/preceding::div[11]</value>
+      <webElementGuid>77c6a8a7-bdf2-444f-b706-fe809edd6af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harap pilih'])[1]/preceding::div[41]</value>
+      <webElementGuid>4a11b508-71b5-4119-90ab-765b83735615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>249efcdb-dec4-4a72-bbcd-bb065b8e058a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>20f316cd-8794-4855-817b-60592313c25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1' or . = '1')]</value>
+      <webElementGuid>569c5169-b7e8-4530-a7bf-6962c0603829</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

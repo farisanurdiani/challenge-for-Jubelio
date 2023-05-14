@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_persediaan</name>
+   <tag></tag>
+   <elementGuidId>3a2355a6-3276-4b77-a119-245de46a6de0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/nav/div/div/ul/li[2]/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0bf2c1ba-2794-44d1-a647-3f7695653fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Persediaan</value>
+      <webElementGuid>e58f93b8-1a3e-4773-9997-b4c76cfb3588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/nav[@class=&quot;navbar-default navbar-static-side&quot;]/div[@class=&quot;sidebar-collapse&quot;]/div[@class=&quot;metismenu nav&quot;]/ul[@class=&quot;metismenu-container&quot;]/li[@class=&quot;metismenu-item&quot;]/ul[@class=&quot;metismenu-container visible&quot;]/li[@class=&quot;metismenu-item&quot;]/a[@class=&quot;metismenu-link&quot;]/span[1]</value>
+      <webElementGuid>3bb21221-99c6-4d78-b098-7d40f8db9ffd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/nav/div/div/ul/li[2]/ul/li[2]/a/span</value>
+      <webElementGuid>6e2a0650-5e63-4b56-babb-8755abc58f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemetaan Kategori'])[1]/following::span[1]</value>
+      <webElementGuid>c80db43b-4ef7-4a78-9e26-f1ca41f12e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::span[2]</value>
+      <webElementGuid>76d85fc5-4d22-4ae2-a88a-106babacf69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Harga'])[1]/preceding::span[1]</value>
+      <webElementGuid>6ff838c7-d00e-4566-a0ac-3fe845681522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promosi'])[1]/preceding::span[2]</value>
+      <webElementGuid>a5915b7d-9521-4de7-b187-8b3a0f771304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Persediaan']/parent::*</value>
+      <webElementGuid>61700434-9011-48d1-b0e7-d579dafb35dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a/span</value>
+      <webElementGuid>2232a546-b3ec-49a6-8ca6-4d8fa03ad2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Persediaan' or . = 'Persediaan')]</value>
+      <webElementGuid>9660f7ab-ce22-458a-9c75-32432f383d94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
