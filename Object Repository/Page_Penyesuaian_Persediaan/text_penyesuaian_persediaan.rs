@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_penyesuaian_persediaan</name>
+   <tag></tag>
+   <elementGuidId>edea0188-6951-4b5f-a6c3-3a23d55b8806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.editor-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div/div/div[2]/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>621e5add-e4e5-44f6-ab4e-2fe1eac5b980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editor-title</value>
+      <webElementGuid>0a3a1a8a-b6bb-4d1b-8172-de84e9d7e855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penyesuaian Persediaan</value>
+      <webElementGuid>144a14c2-bd50-48ca-bbe5-cc65e1d3ee38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[1]/div[1]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;page-editor&quot;]/h2[@class=&quot;editor-title&quot;]</value>
+      <webElementGuid>9ffa0b83-eaf5-4049-9e1c-f6aa3188556a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div/div/div[2]/div/div/div/div/h2</value>
+      <webElementGuid>31ab20b7-cdf8-4d9a-84e0-17d8792594fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gagal Sync'])[1]/following::h2[1]</value>
+      <webElementGuid>bd76dfdf-dd58-4830-b1a9-f19415331ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang di Beli tapi Belum Sampai'])[1]/following::h2[1]</value>
+      <webElementGuid>f6be79cf-84c2-46bd-96bd-7bdef8c2cfb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[1]/preceding::h2[1]</value>
+      <webElementGuid>ebea699c-c5bd-47a5-a517-1c4b7cf2d945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan'])[1]/preceding::h2[1]</value>
+      <webElementGuid>503b182a-1a7a-4d68-bcdd-af673f68f45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penyesuaian Persediaan']/parent::*</value>
+      <webElementGuid>745cd55b-50a2-41cd-a5f3-26e1b31be9fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>4350fa21-9ca8-4397-bc83-bb64eaf96667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Penyesuaian Persediaan' or . = 'Penyesuaian Persediaan')]</value>
+      <webElementGuid>a250bf9c-5231-4bc1-86c0-2f8035f1fe96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

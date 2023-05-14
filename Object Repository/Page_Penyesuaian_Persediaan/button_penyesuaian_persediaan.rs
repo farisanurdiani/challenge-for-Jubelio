@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_penyesuaian_persediaan</name>
+   <tag></tag>
+   <elementGuidId>c623e57e-0be9-407e-8919-65643eaa31f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ladda-button.btn.btn-primary.m-l-xs > span.ladda-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4bb05822-46ec-4fe4-920e-439681feaad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ladda-label</value>
+      <webElementGuid>842f7215-428d-4544-8add-5fae38cf716a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penyesuaian Persediaan</value>
+      <webElementGuid>0bbc869f-0ee6-4755-a6d3-415ed9ec1c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[1]/div[1]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;ibox&quot;]/div[@class=&quot;ibox-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-lg-8&quot;]/div[@class=&quot;pull-right&quot;]/button[@class=&quot;ladda-button btn btn-primary m-l-xs&quot;]/span[@class=&quot;ladda-label&quot;]</value>
+      <webElementGuid>e54ad01f-a5c8-4a32-9bcb-081a0bc6b976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/button[2]/span</value>
+      <webElementGuid>e9ebc042-32fb-4d14-b35c-4985e5c05533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eksport'])[1]/following::span[1]</value>
+      <webElementGuid>1a8ca12b-403d-4c66-8ce3-ebca2cdefe74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/preceding::span[2]</value>
+      <webElementGuid>f8727a47-e2c5-487b-af03-97f003e47dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah baris per halaman'])[1]/preceding::span[4]</value>
+      <webElementGuid>22cd3da3-4047-4eed-8b93-7452227084c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penyesuaian Persediaan']/parent::*</value>
+      <webElementGuid>bf9c2a30-9705-46be-a0e6-0b734e71695e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>1531b72b-37af-4f0d-b3d6-49748492998d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Penyesuaian Persediaan' or . = 'Penyesuaian Persediaan')]</value>
+      <webElementGuid>83cb407d-c3ac-4c14-9f66-77d5c17553de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

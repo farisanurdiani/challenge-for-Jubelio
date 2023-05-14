@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_selamat_datang</name>
+   <tag></tag>
+   <elementGuidId>82e2fcf6-835d-4afd-a304-abcbc236e9c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[2]/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>248c3707-11da-4e42-a3f7-329e2be259f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat Datang</value>
+      <webElementGuid>3551909c-0323-40f5-b381-a4c526606274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;row wrapper border-bottom white-bg page-heading&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-10&quot;]/h1[1]</value>
+      <webElementGuid>76ea1654-e490-4e4c-8315-c3d1c4e8be15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[2]/div/div/div/h1</value>
+      <webElementGuid>0e9d8480-f79b-417b-8782-d24823779506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='qa.rakamin.jubelio@gmail.com'])[1]/following::h1[1]</value>
+      <webElementGuid>493c4676-ddeb-4615-9a4a-073d964d3b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan'])[1]/following::h1[1]</value>
+      <webElementGuid>257d89c6-04ca-42bf-97ee-a40e1d3d4515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo, Alamat, dan Nomor Telepon'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d82eb8d6-6651-4f13-ba84-16ee2b97047b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Isi data'])[1]/preceding::h1[1]</value>
+      <webElementGuid>fcc46071-48e9-463a-81b6-7ca3d59ec28b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selamat Datang']/parent::*</value>
+      <webElementGuid>7c3c0bb6-19af-4427-8202-d9728f75415b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>859465cb-9e1a-4bea-863d-ad0a0707e49e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Selamat Datang' or . = 'Selamat Datang')]</value>
+      <webElementGuid>9591f230-358a-4703-af5f-da0a75d92c47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
